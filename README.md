@@ -1,4 +1,4 @@
-khs-sherpa-jquery 
+vistoria clone do khs-sherpa-jquery 
 =================
 
 JQuery remote data JSON library 

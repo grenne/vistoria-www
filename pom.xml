@@ -17,7 +17,7 @@
    <dependency>
     <artifactId>frm-rest</artifactId>
     <groupId>com.3KD</groupId>
-    <version>1.3.1</version>
+    <version>frm-rst-1.3.1-SNAPSHOT</version>
   </dependency>
   </dependencies>
   

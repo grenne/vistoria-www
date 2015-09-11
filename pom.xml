@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.keyholesoftware</groupId>
-  <artifactId>khs-sherpa-jquery</artifactId>
+  <groupId>com.3KD</groupId>
+  <artifactId>vistoria-www</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
@@ -15,15 +15,15 @@
       <scope>test</scope>
     </dependency>
    <dependency>
-    <artifactId>khs-sherpa</artifactId>
-    <groupId>com.keyholesoftware</groupId>
+    <artifactId>vistoria-www</artifactId>
+    <groupId>com.3KD</groupId>
     <version>1.1.2</version>
   </dependency>
   </dependencies>
   
  
    <build>
-    	<finalName>khs-sherpa-jquery</finalName>
+    	<finalName>vistoria</finalName>
   </build>
   
   

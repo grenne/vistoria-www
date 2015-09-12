@@ -1,4 +1,4 @@
-package com.khs.example.authentication.service;
+package com.3KD.example.authentication.service;
 
 import com.khs.sherpa.json.service.AuthenticationException;
 import com.khs.sherpa.json.service.UserService;

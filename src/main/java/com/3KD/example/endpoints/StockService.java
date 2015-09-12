@@ -1,4 +1,4 @@
-package com.khs.example.endpoints;
+package com.3KD.example.endpoints;
 
 import java.io.InputStreamReader;
 import java.net.URL;
